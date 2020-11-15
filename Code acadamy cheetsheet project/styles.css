@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(244, 241, 222);
+}
+
+header {
+    border: 7.5px solid rgb(38, 70, 83); 
+    background-color: rgb(233, 196, 106);
+    border-radius: 20px;
+    width: 90%;
+    margin: 0 auto;
+    
+}
+
+h1 {
+    text-align: center;
+    font-size: 250%;
+    font-family: "Libre Baskerville"
+}
+
+table {
+    border: 7.5px solid rgb(42, 157, 143);
+    border-radius: 10px;
+    margin-top: 25px;
+    width: 100%
+}
+
+
+thead {
+  font-size: 125%;
+  font-family: "Libre Baskerville";
+  background-color: rgb(244, 162, 97);
+}
+
+tbody {
+    font-size: 75%;
+}
+
+th {
+    height: 50px;
+}
+
+tr {
+    height: 40px;
+}
+
+td {
+    padding-left: 10px;
+}
+
+.property-head {
+    min-width: 175px;
+}
+
+.values-head{
+    min-width: 200px;
+}
+
+.description-head {
+    min-width: 600px;
+}
+
+.red-back {
+    background-color: rgb(231, 111, 81);
+}
+
+.yellow-back {
+    background-color: rgb(233, 196, 106);
+}
+
+.code {
+    font-family: "space mono";
+}
+
+.description {
+    font-family: "work sans";
+    font-weight: 300;
+
+}
